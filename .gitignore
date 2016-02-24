@@ -234,4 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
-cmormot.VC.db
+
+# VS 2015 new database engine
+*.VC.db
